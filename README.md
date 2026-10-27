@@ -38,3 +38,62 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+```
+binarysystem
+├─ jsconfig.json
+├─ next.config.mjs
+├─ package-lock.json
+├─ package.json
+├─ pages
+│  ├─ api
+│  │  └─ hello.js
+│  ├─ index.js
+│  ├─ _app.js
+│  └─ _document.js
+├─ public
+│  ├─ favicon.ico
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+└─ styles
+   └─ globals.css
+
+```
+```
+binarysystem
+├─ backup_before_binarysystem_setup
+│  └─ index.jsx
+├─ components
+│  └─ layout
+│     ├─ Footer.jsx
+│     ├─ Header.jsx
+│     └─ SiteLayout.jsx
+├─ jsconfig.json
+├─ next.config.mjs
+├─ package-lock.json
+├─ package.json
+├─ pages
+│  ├─ about.jsx
+│  ├─ api
+│  │  └─ hello.js
+│  ├─ index.jsx
+│  ├─ lesson.jsx
+│  ├─ quiz.jsx
+│  ├─ _app.jsx
+│  └─ _document.jsx
+├─ public
+│  ├─ favicon.ico
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+└─ styles
+   └─ globals.css
+
+```
